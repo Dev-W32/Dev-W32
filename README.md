@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently learning [Object Oriented Programming](https://github.com/Dev-W32/OOPS-Programs)
 
-- 🌱 I’m currently learning **Java, Python**
-
 - 💬 Ask me about **Java, C**
 
 - 📫 How to reach me **devesh.wadhwani123@gmail.com**
