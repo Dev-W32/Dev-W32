@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devesh Wadhwani</h1>
-<h3 align="center">Just a beginner</h3>
+<h3 align="center">Just a beginner trying to become a good coder :)</h3>
 
 - 🔭 I’m currently learning [Object Oriented Programming](https://github.com/Dev-W32/OOPS-Programs)
 
