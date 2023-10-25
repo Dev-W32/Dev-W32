@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devesh Wadhwani</h1>
 <h3 align="center">Just a curious guy willing to explore different things until I develop my taste :)</h3>
 
-- 🔭 I’m currently learning [Object Oriented Programming](https://github.com/Dev-W32/OOPS-Programs)
+- 🔭 I’m currently learning [Full Stack Development](https://github.com/Dev-W32)
 
-- 💬 Ask me about **Java, C**
+- 💬 Ask me about **Java, C, Web Development, Databases**
 
 - 📫 How to reach me **devesh.wadhwani123@gmail.com**
 
