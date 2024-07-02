@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, C, Web Development, Databases**
 
-- 📫 How to reach me **devesh.wadhwani123@gmail.com**
+- 📫 How to reach me **deveshwadhwani01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
