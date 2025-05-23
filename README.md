@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Wadhwani</h1>
 <h3 align="center">Just a curious guy willing to explore different things until I develop my taste :)</h3>
 
-- 🔭 I’m currently learning [Full Stack Development](https://github.com/Dev-W32)
+- 🔭 I’m currently learning [PAM, LLMs](https://github.com/Dev-W32)
 
 - 💬 Ask me about **CyberArk, Delinea, PAM, Python, Machine Learning **
 
